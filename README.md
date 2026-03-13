@@ -1,23 +1,33 @@
-# WELCOME
-## Welcome to Hieu's Corp 🚀
+# 👋 Welcome to Hieu's Corp
 
-This is the official **Members Guestbook**.  
-When you join the organization, please add your name below.
+Welcome to **Hieu's Corp** 🚀
+This organization is a place for collaboration, projects, and experiments.
+
+To celebrate every new member joining the organization, we keep a **Members Guestbook**.
+If you join the organization, please add your name below.
 
 ---
 
-## ✍️ Sign Your Name
+## ✍️ How to Sign
 
-Add a new line with the following format:
+1. Edit this file.
+2. Add your name to the **Members** list using the format below.
+3. Commit the change (or create a Pull Request).
 
-- Full Name – GitHub – Role – Date
+**Format**
 
-Example:
+* Full Name – GitHub – Role – Date
 
-- Nguyen Huy Hieu – https://github.com/sat-thu-pic – Founder – 2026-03-13
+**Example**
+
+* Nguyen Huy Hieu – https://github.com/sat-thu-pic – Founder – 2026-03-13
 
 ---
 
 ## 👥 Members
 
-- Nguyen Huy Hieu – https://github.com/sat-thu-pic – Founder – 2026-03-13
+* Nguyen Huy Hieu – https://github.com/sat-thu-pic – Founder – 2026-03-13
+
+---
+
+⭐ If you are a new member, don't forget to sign the guestbook!
